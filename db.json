@@ -9,7 +9,7 @@
       "bath": 6,
       "coveredAreaSQFT": 2350,
       "isCommercial": true,
-      "price": 90000000
+      "price": 9000000
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "bath": 6,
       "coveredAreaSQFT": 4700,
       "isCommercial": false,
-      "price": 95000000
+      "price": 9500000
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "bath": 4,
       "coveredAreaSQFT": 1175,
       "isCommercial": false,
-      "price": 65000000
+      "price": 6500000
     },
     {
       "id": 4,
@@ -42,7 +42,7 @@
       "bath": 4,
       "coveredAreaSQFT": 1410,
       "isCommercial": true,
-      "price": 85000000
+      "price": 8500000
     },
     {
       "id": 5,
@@ -53,7 +53,7 @@
       "bath": 6,
       "coveredAreaSQFT": 2350,
       "isCommercial": false,
-      "price": 75000000
+      "price": 7500000
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "bath": 6,
       "coveredAreaSQFT": 3525,
       "isCommercial": true,
-      "price": 85000000
+      "price": 8500000
     },
     {
       "id": 7,
@@ -75,7 +75,7 @@
       "bath": 4,
       "coveredAreaSQFT": 1175,
       "isCommercial": false,
-      "price": 55000000
+      "price": 5500000
     },
     {
       "id": 8,
@@ -86,7 +86,7 @@
       "bath": 6,
       "coveredAreaSQFT": 4700,
       "isCommercial": false,
-      "price": 95000000
+      "price": 9500000
     },
     {
       "id": 9,
@@ -97,7 +97,7 @@
       "bath": 4,
       "coveredAreaSQFT": 940,
       "isCommercial": true,
-      "price": 45000000
+      "price": 4500000
     },
     {
       "id": 10,
@@ -108,7 +108,7 @@
       "bath": 6,
       "coveredAreaSQFT": 2350,
       "isCommercial": false,
-      "price": 75000000
+      "price": 7500000
     },
     {
       "id": 11,
@@ -119,7 +119,7 @@
       "bath": 6,
       "coveredAreaSQFT": 4700,
       "isCommercial": false,
-      "price": 96000000
+      "price": 9600000
     },
     {
       "id": 12,
@@ -130,7 +130,7 @@
       "bath": 7,
       "coveredAreaSQFT": 7050,
       "isCommercial": true,
-      "price": 120000000
+      "price": 1200000
     },
     {
       "id": 13,
@@ -141,7 +141,7 @@
       "bath": 6,
       "coveredAreaSQFT": 2350,
       "isCommercial": false,
-      "price": 80000000
+      "price": 8000000
     },
     {
       "id": 14,
@@ -152,7 +152,7 @@
       "bath": 3,
       "coveredAreaSQFT": 1175,
       "isCommercial": false,
-      "price": 65000000
+      "price": 6500000
     },
     {
       "id": 15,
@@ -163,7 +163,7 @@
       "bath": 6,
       "coveredAreaSQFT": 4700,
       "isCommercial": false,
-      "price": 96000000
+      "price": 9600000
     },
     {
       "id": 16,
@@ -174,7 +174,7 @@
       "bath": 3,
       "coveredAreaSQFT": 940,
       "isCommercial": false,
-      "price": 50000000
+      "price": 5000000
     },
     {
       "id": 17,
@@ -185,7 +185,7 @@
       "bath": 6,
       "coveredAreaSQFT": 2350,
       "isCommercial": false,
-      "price": 80000000
+      "price": 8000000
     },
     {
       "id": 18,
@@ -196,7 +196,7 @@
       "bath": 6,
       "coveredAreaSQFT": 3525,
       "isCommercial": true,
-      "price": 90000000
+      "price": 9000000
     },
     {
       "id": 19,
@@ -207,7 +207,7 @@
       "bath": 6,
       "coveredAreaSQFT": 2350,
       "isCommercial": false,
-      "price": 80000000
+      "price": 8000000
     },
     {
       "id": 20,
@@ -218,7 +218,7 @@
       "bath": 5,
       "coveredAreaSQFT": 1175,
       "isCommercial": false,
-      "price": 65000000
+      "price": 6500000
     },
     {
       "id": 21,
@@ -229,7 +229,7 @@
       "bath": 6,
       "coveredAreaSQFT": 2350,
       "isCommercial": false,
-      "price": 90000000
+      "price": 9000000
     },
     {
       "id": 22,
@@ -240,7 +240,7 @@
       "bath": 4,
       "coveredAreaSQFT": 1410,
       "isCommercial": false,
-      "price": 92000000
+      "price": 9200000
     },
     {
       "id": 23,
@@ -251,7 +251,7 @@
       "bath": 6,
       "coveredAreaSQFT": 2350,
       "isCommercial": true,
-      "price": 90000000
+      "price": 9000000
     },
     {
       "id": 24,
@@ -262,7 +262,7 @@
       "bath": 6,
       "coveredAreaSQFT": 3525,
       "isCommercial": false,
-      "price": 10000000
+      "price": 1000000
     },
     {
       "id": 25,
@@ -273,7 +273,7 @@
       "bath": 8,
       "coveredAreaSQFT": 4700,
       "isCommercial": false,
-      "price": 120000000
+      "price": 1200000
     },
     {
       "id": 26,
@@ -284,7 +284,7 @@
       "bath": 4,
       "coveredAreaSQFT": 1175,
       "isCommercial": false,
-      "price": 70000000
+      "price": 7000000
     },
     {
       "id": 27,
@@ -295,7 +295,7 @@
       "bath": 3,
       "coveredAreaSQFT": 940,
       "isCommercial": false,
-      "price": 55000000
+      "price": 5500000
     },
     {
       "id": 28,
@@ -306,7 +306,7 @@
       "bath": 6,
       "coveredAreaSQFT": 2350,
       "isCommercial": false,
-      "price": 90000000
+      "price": 9000000
     },
     {
       "id": 29,
@@ -317,7 +317,7 @@
       "bath": 6,
       "coveredAreaSQFT": 4700,
       "isCommercial": false,
-      "price": 120000000
+      "price": 1200000
     },
     {
       "id": 30,
@@ -328,7 +328,7 @@
       "bath": 3,
       "coveredAreaSQFT": 940,
       "isCommercial": false,
-      "price": 55000000
+      "price": 5500000
     }
   ]
 }
