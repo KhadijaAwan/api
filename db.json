@@ -8,7 +8,6 @@
       "beds": 6,
       "bath": 6,
       "coveredAreaSQFT": 2350,
-      "propertyType": "house",
       "isCommercial": true,
       "price": 90000000
     },
@@ -20,7 +19,6 @@
       "beds": 5,
       "bath": 6,
       "coveredAreaSQFT": 4700,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 95000000
     },
@@ -32,7 +30,6 @@
       "beds": 4,
       "bath": 4,
       "coveredAreaSQFT": 1175,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 65000000
     },
@@ -44,7 +41,6 @@
       "beds": 4,
       "bath": 4,
       "coveredAreaSQFT": 1410,
-      "propertyType": "house",
       "isCommercial": true,
       "price": 85000000
     },
@@ -56,7 +52,6 @@
       "beds": 5,
       "bath": 6,
       "coveredAreaSQFT": 2350,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 75000000
     },
@@ -68,7 +63,6 @@
       "beds": 6,
       "bath": 6,
       "coveredAreaSQFT": 3525,
-      "propertyType": "house",
       "isCommercial": true,
       "price": 85000000
     },
@@ -80,7 +74,6 @@
       "beds": 4,
       "bath": 4,
       "coveredAreaSQFT": 1175,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 55000000
     },
@@ -92,7 +85,6 @@
       "beds": 7,
       "bath": 6,
       "coveredAreaSQFT": 4700,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 95000000
     },
@@ -104,7 +96,6 @@
       "beds": 3,
       "bath": 4,
       "coveredAreaSQFT": 940,
-      "propertyType": "house",
       "isCommercial": true,
       "price": 45000000
     },
@@ -116,7 +107,6 @@
       "beds": 5,
       "bath": 6,
       "coveredAreaSQFT": 2350,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 75000000
     },
@@ -128,7 +118,6 @@
       "beds": 7,
       "bath": 6,
       "coveredAreaSQFT": 4700,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 96000000
     },
@@ -140,7 +129,6 @@
       "beds": 9,
       "bath": 7,
       "coveredAreaSQFT": 7050,
-      "propertyType": "house",
       "isCommercial": true,
       "price": 120000000
     },
@@ -152,7 +140,6 @@
       "beds": 5,
       "bath": 6,
       "coveredAreaSQFT": 2350,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 80000000
     },
@@ -164,7 +151,6 @@
       "beds": 4,
       "bath": 3,
       "coveredAreaSQFT": 1175,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 65000000
     },
@@ -176,7 +162,6 @@
       "beds": 5,
       "bath": 6,
       "coveredAreaSQFT": 4700,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 96000000
     },
@@ -188,7 +173,6 @@
       "beds": 3,
       "bath": 3,
       "coveredAreaSQFT": 940,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 50000000
     },
@@ -200,7 +184,6 @@
       "beds": 6,
       "bath": 6,
       "coveredAreaSQFT": 2350,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 80000000
     },
@@ -212,7 +195,6 @@
       "beds": 7,
       "bath": 6,
       "coveredAreaSQFT": 3525,
-      "propertyType": "house",
       "isCommercial": true,
       "price": 90000000
     },
@@ -224,7 +206,6 @@
       "beds": 5,
       "bath": 6,
       "coveredAreaSQFT": 2350,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 80000000
     },
@@ -236,7 +217,6 @@
       "beds": 4,
       "bath": 5,
       "coveredAreaSQFT": 1175,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 65000000
     },
@@ -248,7 +228,6 @@
       "beds": 5,
       "bath": 6,
       "coveredAreaSQFT": 2350,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 90000000
     },
@@ -260,7 +239,6 @@
       "beds": 4,
       "bath": 4,
       "coveredAreaSQFT": 1410,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 92000000
     },
@@ -272,7 +250,6 @@
       "beds": 5,
       "bath": 6,
       "coveredAreaSQFT": 2350,
-      "propertyType": "house",
       "isCommercial": true,
       "price": 90000000
     },
@@ -284,7 +261,6 @@
       "beds": 8,
       "bath": 6,
       "coveredAreaSQFT": 3525,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 10000000
     },
@@ -296,7 +272,6 @@
       "beds": 8,
       "bath": 8,
       "coveredAreaSQFT": 4700,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 120000000
     },
@@ -308,7 +283,6 @@
       "beds": 3,
       "bath": 4,
       "coveredAreaSQFT": 1175,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 70000000
     },
@@ -320,7 +294,6 @@
       "beds": 3,
       "bath": 3,
       "coveredAreaSQFT": 940,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 55000000
     },
@@ -332,7 +305,6 @@
       "beds": 5,
       "bath": 6,
       "coveredAreaSQFT": 2350,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 90000000
     },
@@ -344,7 +316,6 @@
       "beds": 8,
       "bath": 6,
       "coveredAreaSQFT": 4700,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 120000000
     },
@@ -356,33 +327,8 @@
       "beds": 4,
       "bath": 3,
       "coveredAreaSQFT": 940,
-      "propertyType": "house",
       "isCommercial": false,
       "price": 55000000
-    },
-    {
-      "id": 31,
-      "imageUrl": "https://media.zameen.com/thumbnails/65270227-400x300.jpeg",
-      "title": "10 Marla House",
-      "address": "DHA Phase 3, Karachi",
-      "beds": 4,
-      "bath": 5,
-      "coveredAreaSQFT": 1175,
-      "propertyType": "house",
-      "isCommercial": false,
-      "price": 70000000
-    },
-    {
-      "id": 32,
-      "imageUrl": "https://images.zameen.com/d308_w308_h270_r1/4/22503721_8227454.jpg",
-      "title": "1 Kanal House",
-      "address": "DHA Phase 1, Peshawar",
-      "beds": 5,
-      "bath": 6,
-      "coveredAreaSQFT": 2350,
-      "propertyType": "house",
-      "isCommercial": false,
-      "price": 90000000
     }
   ]
 }
